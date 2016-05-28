@@ -1,6 +1,7 @@
 #logo{
   height: 92px;
   width:272px;
+  padding-top: 139px;
 }
 #search{
   border:transparent;
@@ -12,6 +13,7 @@
   border: 1px grey solid;
   height:40px;
   width:586px;
+  margin-top: 15px;
 }
 .button{
   background-color: #f2f2f2;
@@ -19,6 +21,7 @@
   height:34px;
   width:97.75px;
   text-align: center;
+  margin-top: 30px;
 }
 .button:hover{
   border: .5px solid black;
