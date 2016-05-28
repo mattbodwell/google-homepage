@@ -10,20 +10,27 @@
   font-size: 18px;
 }
 #searchBox{
-  border: 1px grey solid;
+  border: 1px #d9d9d9 solid;
   height:40px;
   width:586px;
   margin-top: 15px;
+
 }
 .button{
   background-color: #f2f2f2;
   border: none;
   height:34px;
-  width:97.75px;
+  width:105px;
   text-align: center;
   margin-top: 30px;
+  margin-right: 10px;
+  color: #757575;
+  font-size: 13px;
 }
 .button:hover{
   border: .5px solid black;
   font-weight: bold;
+}
+#luckyButton{
+  width:120px;
 }
